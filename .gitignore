@@ -1,7 +1,13 @@
+# System/OS files
 .DS_Store
+
+# npm
 node_modules
 /dist
 
+# Docker files
+docker-compose.yml
+Dockerfile
 
 # local env files
 .env.local
@@ -21,3 +27,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# ssh
+~/.ssh/*
