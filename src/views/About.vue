@@ -1,14 +1,13 @@
-<!-- src/views/About.vue -->
 <template>
-    <div>
-      <h1>About Page</h1>
-      <p>This is the about page.</p>
-    </div>
-  </template>
+  <div>
+    <h1>About Page</h1>
+    <p>This is the about page.</p>
+</div>
+</template>
   
-  <script>
+<script>
   export default {
     name: 'AboutPage',
   };
-  </script>
+</script>
   
